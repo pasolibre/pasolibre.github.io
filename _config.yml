@@ -1,0 +1,11 @@
+# Site settings
+title: Paso Libre
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Paso Libre ist eine Show-Formation spezialisiert auf Salsa und Bachata.
+  Wir bieten Shows für jeden Event. 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://pasolibre.de" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
