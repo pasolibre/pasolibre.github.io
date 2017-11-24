@@ -141,6 +141,15 @@
     width:         calc(45% - (#{$spacing-unit} / 2));
 }
 
+.site-footer .biegenbacher {
+	text-align: right;
+}
+
+.site-footer .biegenbacher img {
+	margin-top: 1em;
+	width: 8em;
+}
+
 @include media-query($on-laptop) {
     .footer-col-1,
     .footer-col-2 {
