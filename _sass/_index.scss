@@ -1,4 +1,27 @@
-.home img {
-    margin-top: 100px;
-    margin-bottom: 120px;
+.home {
+    padding-top: 100px;
+    padding-bottom: 120px;
 }
+
+.home .wrapper {
+	margin-top: 4em;
+}
+
+.home .wrapper div {
+	display: inline-block;
+}
+
+.home .wrapper .about {
+	width: 45%;
+	word-wrap: break-word;
+}
+
+.home .wrapper .contact {
+	float: right;
+	width: 35%;
+}
+
+.home .wrapper .contact img {
+	width: 80%;
+}
+
