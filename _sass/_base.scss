@@ -1,11 +1,21 @@
 body {
 	background-color: $background-color;
+	color: $text-color;
 }
 
+
+
 footer {
+	
+	margin-top: 5em;
+
 	.biegenbacher11 {
 		img {
 			width: 50%;
 		}
+	}
+	
+	hr {
+	background-color:gray;
 	}
 }

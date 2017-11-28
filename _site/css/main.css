@@ -1,28 +1,25 @@
 body {
-  background-color: #000000; }
+  background-color: #000000;
+  color: #BEBEBE; }
 
-footer .biegenbacher11 img {
-  width: 50%; }
+footer {
+  margin-top: 5em; }
+  footer .biegenbacher11 img {
+    width: 50%; }
+  footer hr {
+    background-color: gray; }
 
-.cover {
+.index .cover {
   margin-top: 5em;
   margin-bottom: 5em;
   text-align: center; }
+  .index .cover img {
+    width: 100%; }
+.index .contact img {
+  width: 15em;
+  margin-top: .5em; }
+.index .row div {
+  margin-bottom: 3em; }
 
-.home .wrapper {
-  margin-top: 4em; }
-
-.home .wrapper div {
-  display: inline-block; }
-
-.home .wrapper .about {
-  width: 45%;
-  word-wrap: break-word; }
-
-.home .wrapper .contact {
-  float: right;
-  width: 35%; }
-
-.home .wrapper .contact img {
-  width: 80%;
-  margin-top: 1.0em; }
+.impressum {
+  margin-top: 5em; }

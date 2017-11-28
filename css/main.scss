@@ -4,11 +4,7 @@
 @charset "utf-8";
 
 
-
-// Our variables
-$spacing-unit:     30px;
-
-$text-color:       #fff;
+$text-color:       #BEBEBE;
 $background-color: #000000;
 $brand-color:      #fff;
 
@@ -21,5 +17,6 @@ $grey-color-dark:  darken($grey-color, 25%);
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
-        "index"
+        "index",
+        "impressum"
 ;
