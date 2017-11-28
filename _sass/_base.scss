@@ -23,14 +23,23 @@ a {
 footer {
 	
 	margin-top: 5em;
+	
+	hr {
+		background-color:gray;
+	}
+
+	.navigation-list {
+		list-style: none;
+		margin-left: 0;
+		
+		a {
+			text-decoration: none;
+		}
+	}
 
 	.biegenbacher11 {
 		img {
 			width: 50%;
 		}
-	}
-	
-	hr {
-	background-color:gray;
 	}
 }
